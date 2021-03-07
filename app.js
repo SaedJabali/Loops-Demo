@@ -12,12 +12,12 @@ var itemOrder = "";
 if (order == "red")
 {
 
-itemOrder= '<img src="images/red-dress.jpg"  />';
+itemOrder= '<img src="images/red-long 2.jpg"  />';
 }
 else if (order == "blue")
 {
 
-    itemOrder= '<img src = "images/blue-dress.jpg" />';
+    itemOrder= '<img src = "images/blue-long1.jpg" />';
 }
 
 noOfPiefce= prompt("How many pieces you want?")
